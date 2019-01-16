@@ -2,5 +2,3 @@
 
 blablabla
 
-
-drugie blablabla
